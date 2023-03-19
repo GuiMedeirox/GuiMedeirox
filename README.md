@@ -17,5 +17,5 @@
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=github,linux)](https://skillicons.dev)
 ### Studying in this moment:
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
