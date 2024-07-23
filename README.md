@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm a brazillian software developer<br><br>- 🔭 I currently study at the Federal University of Rio Grande do Norte (UFRN), on the Bachelor's degree in Information Systems. <br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I study Java and other technologies</p>
+<p align="left">I'm a brazillian software developer<br><br>- 🔭 I currently study at the Federal University of Rio Grande do Norte (UFRN), on the Bachelor's degree in Information Systems. <br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I like to play some games and read books</p>
 
 ###
 
