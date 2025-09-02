@@ -29,7 +29,11 @@
 
 ###
 
-<p align="left">I'm a brazillian software developer<br><br>- 🔭 I currently study at the Federal University of Rio Grande do Norte (UFRN), on the Bachelor's degree in Information Systems. <br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I like to play some games and read books</p>
+<p align="left">I'm a brazillian software developer<br><br>- 🔭 I currently study at the Federal University of Rio Grande do Norte (UFRN), on the Bachelor's degree in Information Systems. <br>- 📚 I'm currently learning Node.js<br>- ⚡ In my free time I like to play some games and read books</p>
+
+<p align="left">Integrante e contribuinte da <a href="http://github.com/growly-group/" target="_blank">firma</a></p>
+
+
 
 ###
 
